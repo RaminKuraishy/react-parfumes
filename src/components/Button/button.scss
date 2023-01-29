@@ -1,0 +1,8 @@
+.btn{
+    border: none;
+    outline: none;
+    transition: color, transform 200ms ;
+}
+  .btn:hover{
+    transform: scale(1.2);
+  } 

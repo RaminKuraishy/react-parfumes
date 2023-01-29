@@ -1,0 +1,74 @@
+[
+     {
+            "name":"Zadig & Voltaire",
+            "color":"THIS IS US",
+            "price":"85$",
+            "url":"https://i1.perfumesclub.com/grande/130527.jpg",
+            "article":"508-1"
+            
+         },
+         {
+            "name":"Zadig & Voltaire",
+            "color":"THIS IS LOVE",
+            "price":"90$",
+            "article":"508-2",
+            "url":"https://i1.perfumesclub.com/grandewp/120619.webp"
+         },
+         {
+            "name":"Zadig & Voltaire",
+            "color":"THIS IS HER",
+            "price":"90$",
+            "article":"508-3",
+            "url":"https://i1.perfumesclub.com/grandewp/98844.webp"
+         },
+         {
+            "name":"Zadig & Voltaire",
+            "price":"70$",
+            "url":"https://i1.perfumesclub.com/grandewp/170829.webp",
+            "article":"508-4",
+            "color":"THIS IS HIM"
+         },
+         {
+            "name":"Zadig & Voltaire",
+            "price":"75$",
+            "url":"https://i1.perfumesclub.com/grandewp/80482.webp",
+            "article":"508-5",
+            "color":"THIS IS HIM"
+         },
+         {
+            "name":"Zadig & Voltaire",
+            "price":"90$",
+            "url":"https://i1.perfumesclub.com/grandewp/102825.webp",
+            "article":"508-6",
+            "color":"GIRLS CAN DO ANYTHING"
+         },
+         {
+            "name":"Zadig & Voltaire",
+            "price":"90$",
+            "url":"https://i1.perfumesclub.com/grandewp/128111.webp",
+            "article":"508-7",
+            "color":"GIRLS CAN BE CRAZY"
+         },
+         {
+            "name":"Jean Paul Gaultier",
+            "price":"100$",
+            "url":"https://i1.perfumesclub.com/grandewp/127133.webp",
+            "article":"508-8",
+            "color":"LE MALE"
+         },
+         {
+            "name":"Jean Paul Gaultier",
+            "price":"110$",
+            "url":"https://i1.perfumesclub.com/grandewp/127134.webp",
+            "article":"508-9",
+            "color":"CLASSIQUE"
+         },
+         {
+            "name":"KENZO",
+            "price":"150$",
+            "url":"https://i1.perfumesclub.com/grandewp/117358.webp",
+            "article":"508-10",
+            "color":"FLOWER"
+         }
+      ]
+   

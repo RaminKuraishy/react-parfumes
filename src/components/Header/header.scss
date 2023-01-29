@@ -1,0 +1,29 @@
+.like{
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 2.0em;
+    color: rgb(245, 28, 28);
+    transition: color, transform 500ms ease;
+}
+.like:hover{
+transform: scale(1.3);
+    
+    color: red;
+}
+.cart{
+ margin-right: 10px;
+font-size: 2.0em;
+color: #383737;
+transition: color, transform 500ms ease;
+}
+.cart:hover{
+color: #242323;
+transform: scale(1.3);
+   }
+.logo{
+font-size: 60px;
+color: #383737;
+}
+.nav-link.active{
+transform: scale(1.3);
+}

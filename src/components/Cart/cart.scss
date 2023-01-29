@@ -1,0 +1,12 @@
+.cart-tittle{
+    font-size: 30px;
+}
+.delete-icon{
+    color: rgb(233, 49, 49);
+    font-size: 15px;
+    transition: color, transform 500ms ease;
+}
+.delete-icon:hover{
+    color: rgb(229, 20, 20);
+    transform: scale(1.6);
+}
