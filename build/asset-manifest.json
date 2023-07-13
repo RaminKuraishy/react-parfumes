@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-parfumes/static/css/main.a5c58473.css",
+    "main.js": "/react-parfumes/static/js/main.923f772c.js",
+    "index.html": "/react-parfumes/index.html",
+    "main.a5c58473.css.map": "/react-parfumes/static/css/main.a5c58473.css.map",
+    "main.923f772c.js.map": "/react-parfumes/static/js/main.923f772c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5c58473.css",
+    "static/js/main.923f772c.js"
+  ]
+}
